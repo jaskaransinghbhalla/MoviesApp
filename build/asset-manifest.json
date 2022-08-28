@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.e36c37e6.js",
-    "index.html": "/index.html",
-    "main.e36c37e6.js.map": "/static/js/main.e36c37e6.js.map"
+    "main.css": "/WD-MovieLand/static/css/main.334bdeb1.css",
+    "main.js": "/WD-MovieLand/static/js/main.5fea6325.js",
+    "index.html": "/WD-MovieLand/index.html",
+    "static/media/search.svg": "/WD-MovieLand/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/WD-MovieLand/static/css/main.334bdeb1.css.map",
+    "main.5fea6325.js.map": "/WD-MovieLand/static/js/main.5fea6325.js.map"
   },
   "entrypoints": [
-    "static/js/main.e36c37e6.js"
+    "static/css/main.334bdeb1.css",
+    "static/js/main.5fea6325.js"
   ]
 }
